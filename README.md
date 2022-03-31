@@ -6,6 +6,7 @@
                       Twiter-omoshillary
                       Whatsup-+254743257309
                       Fcebook-@hillary yrally
+    !! Open to any discord sever, sent send invite.
                      
                       
 
