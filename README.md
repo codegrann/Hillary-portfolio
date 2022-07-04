@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @hillaryomondi0chola
-- 👀 I’m interested in frontend web development.
-- 🌱 I’m currently learning HTML, CSS nad Javascript.
-- 💞️ I’m looking to collaborate on learning and applying of any specific framework
+- 👋 I’m @hillaryomondi0chola
+- 👀 I specialize in frontend web development.
+- 🌱 I’m currently learning HTML, CSS and Javascript.
+- 💞️ I’m looking to collaborate and network with developers globally.
 - 📫 How to reach me: Email-omondihills02@gmail.com
                       Twiter-omoshillary
                       Whatsup-+254743257309
                       Fcebook-@hillary yrally
-    !! Open to any discord sever,send an invite.
+    !! Open to any discord sever.
                      
                       
 
