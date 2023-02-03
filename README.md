@@ -1,13 +1,14 @@
-- 👋 I’m Hillary@codegram
+- 👋 I’m Hillary Omondi @codegram
 - 👀 I specialize in frontend web development.
-- 🌱 I’m currently learning Javascript having gone through HTML and CSS.
+- 🌱 I’m currently learning bootstrap having gone through HTML, CSS and Javascript.
 	.I looking forward to undertake REACT as a frontend framework.
-	.My passion for Typscript is wanting and am willing to learn and be taught as would help me transisti to Angular easily.
+	.Am intrested in adding typesrcipt to my stack..
 - 💞️ I’m looking to collaborate and network with developers globally.
 - 📫 How to reach me: Email-omondihills02@gmail.com
                       Twiter-omoshillary
                       Whatsup-+254796984554
                       Facebook-@hillary yrally/hyllary web
+		      LinkedIn-https://www.linkedin.com/in/hillary-omondi-36b45b237/
     !! Open to any discord sever.
                      
                       
